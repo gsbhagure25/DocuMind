@@ -181,7 +181,7 @@ hybrid-rag/
 ### 1. Environment Setup
 
 ```bash
-git clone https://github.com/your-username/hybrid-rag.git
+git clone https://github.com/gsbhagure25/DocuMind.git
 cd hybrid-rag
 cp .env.example .env
 ```
